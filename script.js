@@ -1,0 +1,5 @@
+let user= prompt ('string tyredeg malumot kiritting')
+let use =prompt('Number typedagi malumot kiritting ')
+let us = prompt ('boolear typedagi  malumat kiritting') 
+let u = ('Все сведени вы вели правельно?') 
+alert = (user, use, us, u)
